@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-12 19:23+0200\n"
+"PO-Revision-Date: 2012-03-12 19:23+0200\n"
+"Last-Translator: BWS <zos@bestwebsoft.com>\n"
+"Language-Team: globus2008 <globus@email.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha.php:31
+msgid "Login form"
+msgstr "Přihlašovací formulář"
+
+#: captcha.php:32
+msgid "Register form"
+msgstr "Registrační formulář"
+
+#: captcha.php:33
+msgid "Lost password form"
+msgstr "Formulář při ztrátě hesla"
+
+#: captcha.php:34
+msgid "Comments form"
+msgstr "Formulář pro odeslání komentáře"
+
+#: captcha.php:35
+msgid "Hide CAPTCHA for registered users"
+msgstr "Skrýt CAPTCHA pro registrované uživatele"
+
+#: captcha.php:40
+msgid "Plus (&#43;)"
+msgstr "Plus (&#43;)"
+
+#: captcha.php:40
+msgid "Plus"
+msgstr "Plus"
+
+#: captcha.php:41
+msgid "Minus (&minus;)"
+msgstr "Mínus (&minus;)"
+
+#: captcha.php:41
+msgid "Minus"
+msgstr "Mínus (&minus;)"
+
+#: captcha.php:42
+msgid "Multiply (&times;)"
+msgstr "Krát (&times;)"
+
+#: captcha.php:42
+msgid "Increase"
+msgstr "Zvětšit"
+
+#: captcha.php:47
+msgid "Numbers"
+msgstr "Čísla"
+
+#: captcha.php:48
+msgid "Words"
+msgstr "Slova"
+
+#: captcha.php:100
+msgid "Activated plugins"
+msgstr "Aktivavané pluginy"
+
+#: captcha.php:102
+#: captcha.php:110
+#: captcha.php:118
+msgid "Read more"
+msgstr "Přečíst více"
+
+#: captcha.php:102
+#: captcha.php:218
+#: captcha.php:227
+msgid "Settings"
+msgstr "Nastavení"
+
+#: captcha.php:108
+msgid "Installed plugins"
+msgstr "Instalované pluginy"
+
+#: captcha.php:116
+msgid "Recommended plugins"
+msgstr "Doporučené pluginy"
+
+#: captcha.php:118
+msgid "Download"
+msgstr "Stáhnout"
+
+#: captcha.php:118
+#, php-format
+msgid "Install %s"
+msgstr "Instalovat %s"
+
+#: captcha.php:118
+msgid "Install now from wordpress.org"
+msgstr "Nainstalovat nyní z wordpress.org"
+
+#: captcha.php:120
+msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
+msgstr "Pokud máte nějakou otázku, kontaktujte nás na plugin@bestwebsoft.com nebo vyplňte kontaktní formulář na našich stránkách"
+
+#: captcha.php:130
+#: captcha.php:291
+msgid "Captcha Options"
+msgstr "CAPTCHA nastavení"
+
+#: captcha.php:130
+msgid "Captcha"
+msgstr "Captcha"
+
+#: captcha.php:228
+msgid "FAQ"
+msgstr "FAQ - často kladdené otázky"
+
+#: captcha.php:229
+msgid "Support"
+msgstr "Podpora"
+
+#: captcha.php:273
+msgid "Please select one point in the blocks Arithmetic actions and Difficulty for CAPTCHA"
+msgstr "Prosím vyberte jeden bod v bloku aritmetických funkcí  a obtížnosti Captcha"
+
+#: captcha.php:277
+msgid "Options saved."
+msgstr "Nastavení uloženo"
+
+#: captcha.php:297
+msgid "Enable CAPTCHA on the:"
+msgstr "Povolit CAPTCHA v:"
+
+#: captcha.php:306
+#: captcha.php:309
+#: captcha.php:313
+msgid "Contact form"
+msgstr "Kontaktní formulář"
+
+#: captcha.php:306
+#: captcha.php:309
+#: captcha.php:313
+msgid "(power by bestwebsoft.com)"
+msgstr "(běží na  bestwebsoft.com)"
+
+#: captcha.php:309
+msgid "Activate contact form"
+msgstr "Aktivovat kontaktní formulář"
+
+#: captcha.php:313
+msgid "Download contact form"
+msgstr "Stáhnout kontaktní formulář"
+
+#: captcha.php:315
+msgid "If you would like to customize this plugin for a custom form, please contact us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> or fill in our contact form on our site"
+msgstr "Pokud budete chtít přizpůsobit tento plugin pro své potřeby, kontaktujte nás prosím na  <a href=\"Mailto:plugin@bestwebsoft.com\"> plugin@bestwebsoft.com </ a> nebo vyplňte kontaktní formulář na našich stránkách"
+
+#: captcha.php:319
+msgid "Label for CAPTCHA in form"
+msgstr "Nadpis pro CAPTCHA ve formuláři"
+
+#: captcha.php:323
+msgid "Arithmetic actions for CAPTCHA"
+msgstr "Aritmetické operace pro CAPTCHA"
+
+#: captcha.php:332
+msgid "Difficulty for CAPTCHA"
+msgstr "Obtížnost pro CAPTCHA"
+
+#: captcha.php:342
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: captcha.php:384
+#: captcha.php:390
+#: captcha.php:532
+#: captcha.php:539
+msgid "ERROR"
+msgstr "Chyba"
+
+#: captcha.php:384
+#: captcha.php:404
+#: captcha.php:499
+#: captcha.php:532
+#: captcha.php:555
+msgid "Please complete the CAPTCHA."
+msgstr "Prosím vyplňte CAPTCHA pole"
+
+#: captcha.php:390
+#: captcha.php:413
+#: captcha.php:539
+msgid "That CAPTCHA was incorrect."
+msgstr "Špatně vyplněné pole CAPTCHA"
+
+#: captcha.php:505
+#: captcha.php:562
+msgid "Error: You entered in the wrong CAPTCHA phrase. Press your browser's back button and try again."
+msgstr "Chyba. Byl vložen špatný text do CAPTCHA. Stiskněte ve Vašem prohlížeči tlačítko zpět a zkuste to znovu."
+
+#: captcha.php:577
+#: captcha.php:811
+msgid "null"
+msgstr "nula"
+
+#: captcha.php:578
+#: captcha.php:812
+#: captcha.php:1002
+msgid "one"
+msgstr "jedna"
+
+#: captcha.php:579
+#: captcha.php:813
+msgid "two"
+msgstr "dva"
+
+#: captcha.php:580
+#: captcha.php:814
+msgid "three"
+msgstr "tři"
+
+#: captcha.php:581
+#: captcha.php:815
+msgid "four"
+msgstr "čtyři"
+
+#: captcha.php:582
+#: captcha.php:816
+msgid "five"
+msgstr "pět"
+
+#: captcha.php:583
+#: captcha.php:817
+#: captcha.php:1002
+msgid "six"
+msgstr "šest"
+
+#: captcha.php:584
+#: captcha.php:818
+#: captcha.php:990
+#: captcha.php:996
+msgid "seven"
+msgstr "sedm"
+
+#: captcha.php:585
+#: captcha.php:819
+#: captcha.php:993
+msgid "eight"
+msgstr "osm"
+
+#: captcha.php:586
+#: captcha.php:820
+msgid "nine"
+msgstr "devět"
+
+#: captcha.php:589
+#: captcha.php:823
+msgid "eleven"
+msgstr "jedenáct"
+
+#: captcha.php:590
+#: captcha.php:824
+msgid "twelve"
+msgstr "dvanáct"
+
+#: captcha.php:591
+#: captcha.php:825
+msgid "thirteen"
+msgstr "třináct"
+
+#: captcha.php:592
+#: captcha.php:826
+msgid "fourteen"
+msgstr "čtrnáct"
+
+#: captcha.php:593
+#: captcha.php:827
+msgid "fifteen"
+msgstr "patnáct"
+
+#: captcha.php:594
+#: captcha.php:828
+msgid "sixteen"
+msgstr "šestnáct"
+
+#: captcha.php:595
+#: captcha.php:829
+msgid "seventeen"
+msgstr "sedmnáct"
+
+#: captcha.php:596
+#: captcha.php:830
+msgid "eighteen"
+msgstr "osmnáct"
+
+#: captcha.php:597
+#: captcha.php:831
+msgid "nineteen"
+msgstr "devatenáct"
+
+#: captcha.php:600
+#: captcha.php:834
+msgid "ten"
+msgstr "deset"
+
+#: captcha.php:601
+#: captcha.php:835
+msgid "twenty"
+msgstr "dvacet"
+
+#: captcha.php:602
+#: captcha.php:836
+msgid "thirty"
+msgstr "třicet"
+
+#: captcha.php:603
+#: captcha.php:837
+msgid "forty"
+msgstr "čtyřicet"
+
+#: captcha.php:604
+#: captcha.php:838
+msgid "fifty"
+msgstr "padesát"
+
+#: captcha.php:605
+#: captcha.php:839
+msgid "sixty"
+msgstr "šedesát"
+
+#: captcha.php:606
+#: captcha.php:840
+msgid "seventy"
+msgstr "sedmdesát"
+
+#: captcha.php:607
+#: captcha.php:841
+msgid "eighty"
+msgstr "osmdesát"
+
+#: captcha.php:608
+#: captcha.php:842
+msgid "ninety"
+msgstr "devadesát"
+
+#: captcha.php:695
+#: captcha.php:929
+msgid "and"
+msgstr "a"
+
+#: captcha.php:714
+msgid "The password of encryption is not set"
+msgstr "Heslo pro kódování není nastaveno"
+
+#: captcha.php:733
+msgid "The password of decoding is not set"
+msgstr "The password of decoding is not set"
+
+#~ msgid "BWS Plugins"
+#~ msgstr "Плагины BWS"
+
+#~ msgid "Install Now"
+#~ msgstr "Установить сейчас"

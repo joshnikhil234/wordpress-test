@@ -1,0 +1,30 @@
+.dropcap h1{
+	margin: -2px 0px 0px 0px;
+	font-size: 30px;
+}
+.dropcap{
+	margin: 0px 0px 0px 0px;
+	width: 28px;
+	height: 38px;
+	float: left;
+}
+#front-manager .column3_4{
+	width: 71%;
+	margin: 0px 1% 0px 2%;
+}
+#content-slider{
+	margin-top: 40px;
+}
+.carousel-slider ul{
+	text-align: center;
+}	
+.carousel-slider ul li{
+	display: inline;
+	float: none;
+}
+.search-form{
+	top: 0px;
+}
+#header-whole .bar-title h5{
+	margin-top: 17px;
+}
